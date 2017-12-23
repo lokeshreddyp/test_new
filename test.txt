@@ -1,0 +1,4 @@
+hey this is my first line of commit
+hey dude this is my second commit :)
+added a new line dude :P
+added a fourth line

@@ -1,3 +1,4 @@
 hey this is a first line :P
 this is second line of second commit :)
-this is nsfksnfk ksnfsnkks , 
+this is nsfksnfk ksnfsnkks ,
+this is a bad commit :( , remive it :) 
